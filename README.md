@@ -7,7 +7,7 @@ I am a Computer Science and Engineering (CSE) student with a passion for coding 
 
 ## 📫 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/deepak-kumar-731623325/))
+- [LinkedIn](https://www.linkedin.com/in/deepak-kumar-731623325)
 - [X](https://x.com/itsdeepak7390)
 
 
